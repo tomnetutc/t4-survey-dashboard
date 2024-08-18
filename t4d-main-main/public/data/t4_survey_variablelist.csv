@@ -1,0 +1,134 @@
+Category,Name,Label
+None,None,None
+Household,hh_veh,Number of motorized vehicles (including four-wheelers and two-wheelers) available to the household
+Household,veh1_make,Vehicle 1 - Make
+Household,veh2_make,Vehicle 2 - Make
+Household,veh3_make,Vehicle 3 - Make
+Household,veh4_make,Vehicle 4 - Make
+Household,veh5_make,Vehicle 5 - Make
+Household,veh6_make,Vehicle 6 - Make
+Household,veh7_make,Vehicle 7 - Make
+Household,veh8_make,Vehicle 8 - Make
+Household,veh9_make,Vehicle 9 - Make
+Household,veh10_make,Vehicle 10 - Make
+Household,veh1_modyr,Vehicle 1 - Model year
+Household,veh2_modyr,Vehicle 2 - Model year
+Household,veh3_modyr,Vehicle 3 - Model year
+Household,veh4_modyr,Vehicle 4 - Model year
+Household,veh5_modyr,Vehicle 5 - Model year
+Household,veh6_modyr,Vehicle 6 - Model year
+Household,veh7_modyr,Vehicle 7 - Model year
+Household,veh8_modyr,Vehicle 8 - Model year
+Household,veh9_modyr,Vehicle 9 - Model year
+Household,veh10_modyr,Vehicle 10 - Model year
+Household,veh1_yracq,Vehicle 1 - Year acquired
+Household,veh2_yracq,Vehicle 2 - Year acquired
+Household,veh3_yracq,Vehicle 3 - Year acquired
+Household,veh4_yracq,Vehicle 4 - Year acquired
+Household,veh5_yracq,Vehicle 5 - Year acquired
+Household,veh6_yracq,Vehicle 6 - Year acquired
+Household,veh7_yracq,Vehicle 7 - Year acquired
+Household,veh8_yracq,Vehicle 8 - Year acquired
+Household,veh9_yracq,Vehicle 9 - Year acquired
+Household,veh10_yracq,Vehicle 10 - Year acquired
+Household,veh1_model,Vehicle 1 - Model
+Household,veh2_model,Vehicle 2 - Model
+Household,veh3_model,Vehicle 3 - Model
+Household,veh4_model,Vehicle 4 - Model
+Household,veh5_model,Vehicle 5 - Model
+Household,veh6_model,Vehicle 6 - Model
+Household,veh7_model,Vehicle 7 - Model
+Household,veh8_model,Vehicle 8 - Model
+Household,veh9_model,Vehicle 9 - Model
+Household,veh10_model,Vehicle 10 - Model
+Household,veh1_fuel,Vehicle 1 - Fuel type
+Household,veh2_fuel,Vehicle 2 - Fuel type
+Household,veh3_fuel,Vehicle 3 - Fuel type
+Household,veh4_fuel,Vehicle 4 - Fuel type
+Household,veh5_fuel,Vehicle 5 - Fuel type
+Household,veh6_fuel,Vehicle 6 - Fuel type
+Household,veh7_fuel,Vehicle 7 - Fuel type
+Household,veh8_fuel,Vehicle 8 - Fuel type
+Household,veh9_fuel,Vehicle 9 - Fuel type
+Household,veh10_fuel,Vehicle 10 - Fuel type
+Household,veh1_miles,Vehicle 1 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh2_miles,Vehicle 2 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh3_miles,Vehicle 3 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh4_miles,Vehicle 4 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh5_miles,Vehicle 5 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh6_miles,Vehicle 6 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh7_miles,Vehicle 7 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh8_miles,Vehicle 8 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh9_miles,Vehicle 9 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh10_miles,Vehicle 10 - Annual Miles Driven by All Drivers (Estimate)
+Household,adas_lanekeep,Driving assistance features in Vehicle 1 - Lane keeping system
+Household,adas_backcam,Driving assistance features in Vehicle 1 - Backup camera
+Household,adas_acc,Driving assistance features in Vehicle 1 - Adaptive Cruise Control (ACC)
+Household,adas_abs,Driving assistance features in Vehicle 1 - Automated braking system
+Household,adas_blindspot,Driving assistance features in Vehicle 1 - Blind spot monitoring
+Household,adas_other,Driving assistance features in Vehicle 1 - Other
+Household,adas_none,Driving assistance features in Vehicle 1 - None
+Household,adas_notsure,Driving assistance features in Vehicle 1 - Not sure
+Household,adas_other_text,Driving assistance features in Vehicle 1 - Other - Text description
+Residential Preference,homeloc_largehome,Features respondent did/would seek in current/future home - Large home
+Residential Preference,homeloc_backyard,Features respondent did/would seek in current/future home - Backyard
+Residential Preference,homeloc_singlefam,Features respondent did/would seek in current/future home - Single family home (stand-alone home)
+Residential Preference,homeloc_closework,Features respondent did/would seek in current/future home - Close to work/school location (for one or more household members)
+Residential Preference,homeloc_closeshops,Features respondent did/would seek in current/future home - Close to shops/services
+Residential Preference,homeloc_closenature,Features respondent did/would seek in current/future home - Close to parks/nature
+Residential Preference,homeloc_closefamfriend,Features respondent did/would seek in current/future home - Close to family friends
+Residential Preference,homeloc_goodschool,Features respondent did/would seek in current/future home - Good public schools
+Residential Preference,homeloc_walkbike,Features respondent did/would seek in current/future home - Easy to walk or bike around neighborhood
+Residential Preference,homeloc_transit,Features respondent did/would seek in current/future home - Good access to public transit
+Residential Preference,homeloc_lowcrime,Features respondent did/would seek in current/future home - Low crime neighborhood
+Travel Patterns,CommuteValidation,CommuteValidation
+Travel Patterns,CommuteLocation,Main commute location - derived from number of days respondent travel to work and/or school
+Travel Patterns,com_daystowork,Days per week respondent travel to work
+Travel Patterns,com_daystoschool,Days per week respondent travel to school
+Travel Patterns,com_telecommute,Days per week respondents telecommute for work
+Travel Patterns,avgmlsdriven,"Average miles driven in a week. Does not include miles driving on the clock for job (e.g., bus driver, Uber/Lyft driver)."
+Travel Patterns,com_distance,Distance from home to main commute location
+Travel Patterns,com_time,"Typical day (one-way) commute time to main commute location, by the means of transportation used most often"
+Travel Patterns,com_mode,Means of transportation used most often for commute
+Travel Patterns,com_frq_sov,"Frequency of mode use on trips to main commute location - Drive private vehicle, alone"
+Travel Patterns,com_frq_hovdriver,"Frequency of mode use on trips to main commute location - Drive private vehicle, with passengers"
+Travel Patterns,com_frq_hovpass,"Frequency of mode use on trips to main commute location - Ride in private vehicle, with others"
+Travel Patterns,com_frq_carshare,"Frequency of mode use on trips to main commute location - Carsharing services (e.g., Zipcar)"
+Travel Patterns,com_frq_bus,Frequency of mode use on trips to main commute location - Public transit: bus
+Travel Patterns,com_frq_lightrail,Frequency of mode use on trips to main commute location - Public transit: light rail
+Travel Patterns,com_frq_ridehailing,Frequency of mode use on trips to main commute location - Uber/Lyft/other ridehailing service
+Travel Patterns,com_frq_taxi,Frequency of mode use on trips to main commute location - Taxi
+Travel Patterns,com_frq_bike,Frequency of mode use on trips to main commute location - Bicycle (including bikesharing)
+Travel Patterns,com_frq_escooter,"Frequency of mode use on trips to main commute location - E-scooter (e.g., Bird, Lime)"
+Travel Patterns,com_frq_walk,Frequency of mode use on trips to main commute location - Walk
+Travel Patterns,com_frq_other,Frequency of mode use on trips to main commute location - Other
+Travel Patterns,com_frq_othertext,Frequency of mode use on trips to main commute location - Other - Text description
+Travel Patterns,ncom_frq_sov,"Frequency of mode use on non-commute trips - Drive private vehicle, alone"
+Travel Patterns,ncom_frq_hovdriver,"Frequency of mode use on non-commute trips - Drive private vehicle, with passengers"
+Travel Patterns,ncom_frq_hovpass,"Frequency of mode use on non-commute trips - Ride in private vehicle, with others"
+Travel Patterns,ncom_frq_carshare,"Frequency of mode use on non-commute trips - Carsharing services (e.g., Zipcar)"
+Travel Patterns,ncom_frq_bus,Frequency of mode use on non-commute trips. - Public transit: bus
+Travel Patterns,ncom_frq_lightrail,Frequency of mode use on non-commute trips - Public transit: light rail
+Travel Patterns,ncom_frq_ridehailing,Frequency of mode use on non-commute trips - Uber/Lyft/other ridehailing service
+Travel Patterns,ncom_frq_taxi,Frequency of mode use on non-commute trips - Taxi
+Travel Patterns,ncom_frq_bike,Frequency of mode use on non-commute trips - Bicycle (including bikesharing)
+Travel Patterns,ncom_frq_escooter,"Frequency of mode use on non-commute trips - E-scooter (e.g., Bird, Lime)"
+Travel Patterns,ncom_frq_walk,Frequency of mode use on non-commute trips - Walk
+Travel Patterns,ncom_frq_other,Frequency of mode use on non-commute trips - Other
+Travel Patterns,ncom_frq_othertext,Frequency of mode use on non-commute trips - Other - Text description
+Travel Patterns,cond_drivegeneral,Conditions that prevent or limit from - Driving in general
+Travel Patterns,cond_drivenight,Conditions that prevent or limit from - Driving at night
+Travel Patterns,cond_pubtransit,Conditions that prevent or limit from - Taking public transit
+Travel Patterns,cond_bike,Conditions that prevent or limit from - Bicycling
+Travel Patterns,cond_walk,Conditions that prevent or limit from - Walking
+Travel Patterns,hh_adultnodrive,"Adults (18 years old or older) in household, other than respondent, with conditions that either partially or fully limit their ability to drive"
+Purchases for delivery,del_purchitem,"In the past 30 days, number of items purchased online delivered to home"
+Purchases for delivery,del_prepmeal,"In the past 30 days, number of prepared meals delivered to home"
+Purchases for delivery,del_grocery,"In the past 30 days, number of groceries delivered to home"
+Long distance trips,ld_leisure_car,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by car:"
+Long distance trips,ld_leisure_plane,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by airplane:"
+Long distance trips,ld_leisure_other,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by other means:"
+Long distance trips,ld_biz_car,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by car"
+Long distance trips,ld_biz_plane,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by airplane"
+Long distance trips,ld_biz_other,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by other means"
+Long distance trips,airportvisit,"Has the respondent visited the local airport, since the beginning of the year, to either travel or to pick-up/drop-off someone else who was traveling?"

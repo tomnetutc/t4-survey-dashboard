@@ -1,0 +1,690 @@
+Category,Name,Label
+None,None,None
+Imputed,imp_att_firsttech,IMPUTED - I like to be among the first people to have the latest technology.
+Imputed,imp_att_gastax,IMPUTED - The government should raise the gas tax to help reduce the negative impacts of transportation on the environment.
+Imputed,imp_att_uncomf,IMPUTED - I feel uncomfortable around people I do not know.
+Imputed,imp_att_onething,IMPUTED - I prefer to do one thing at a time.
+Imputed,imp_att_alterdrive,"IMPUTED - Most of the time, I have no reasonable alternatives to driving."
+Imputed,imp_att_busy,IMPUTED - I am too busy to do many of the things I like to do.
+Imputed,imp_att_carcrash,"IMPUTED - Car crash deaths are an unfortunate but unavoidable part of a modern, efficient transportation system."
+Imputed,imp_att_environfriend,IMPUTED - I am  committed to an environmentally-friendly lifestyle.
+Imputed,imp_att_wait,IMPUTED - Having  to wait can be a useful pause in a busy day.
+Imputed,imp_att_shopstore,IMPUTED - I prefer to shop in a store rather than online.
+Imputed,imp_att_techfrus,IMPUTED - Learning how to use new technologies is often frustrating for me.
+Imputed,imp_att_rentcar,IMPUTED - I would be fine  with renting out my car to people I do not know.
+Imputed,imp_att_intercon,IMPUTED - Having internet connectivity everywhere I go is important to me.
+Imputed,imp_att_closetransit,"IMPUTED - I prefer to live close to transit, even if it means I'll have a smaller home and live in a more densely populated area."
+Imputed,imp_att_sharperinfo,IMPUTED - Sharing my personal information or location via internet-enabled devices concerns me a lot.
+Imputed,imp_att_travrout,IMPUTED - My daily travel routine is generally satisfactory.
+Imputed,imp_att_prefdriv,"IMPUTED - When traveling in a vehicle, I prefer to be a driver rather than a passenger."
+Imputed,imp_att_spachome,"IMPUTED - I prefer to live in a spacious home, even if it is farther from public transportation or many places I go."
+Imputed,imp_att_lesspol,"IMPUTED - I am committed to using a less polluting means of transportation (e.g., walking, biking, and public transit) as much as possible."
+Imputed,imp_att_pubtrans,IMPUTED - Public transit is a reliable means of transportation for my daily travel needs.
+Imputed,imp_att_motsick,IMPUTED - I tend to feel sick if I read while in a moving vehicle.
+Imputed,imp_att_newanddif,IMPUTED - I like trying things that are new and different.
+Imputed,imp_att_timeuse,IMPUTED - I try to make good use of the time I spend traveling.
+Imputed,imp_att_congest,IMPUTED - The level of congestion during my daily travel  bothers me.
+Imputed,imp_att_carown,IMPUTED - I definitely like the idea of owning my own car.
+Imputed,imp_att_transtime,IMPUTED - The time spent traveling to places provides a useful transition between activities.
+Imputed,imp_att_carquality,IMPUTED - The reliability and quality of a car are more important than its brand.
+Imputed,imp_att_mixuse,"IMPUTED - I like the idea of having stores, restaurants, and offices mixed among the homes in my neighborhood."
+Imputed,imp_rh_att_expensive,"IMPUTED - Ridehailing services are too expensive to use on a frequent (e.g., daily or weekly) basis."
+Imputed,imp_rh_att_reliable,IMPUTED - I would use ridehailing services more often if the service was more reliable.
+Imputed,imp_rh_att_savmonpark,IMPUTED - Ridehailing services help me save time and money on parking.
+Imputed,imp_rh_att_avimpaired,"IMPUTED - Ridehailing services help me avoid impaired driving (e.g., driving under the influence)."
+Imputed,imp_rh_att_carunavail,"IMPUTED - Ridehailing services are good alternatives when my car is temporarily unavailable (e.g., when it is being repaired)."
+Imputed,imp_rh_att_awayhome,IMPUTED - Ridehailing services are good travel options for me when I am away from home.
+Imputed,imp_rh_att_gettotransit,IMPUTED - Ridehailing services help me get to/from public transit stops.
+Imputed,imp_rh_att_transnotavl,IMPUTED - Ridehailing services are good options for me when or where public transit is not available.
+Imputed,imp_rh_att_fewcar,IMPUTED - Ridehailing services allow me to live with fewer or no cars.
+Imputed,imp_rh_att_drivuncomf,IMPUTED - Traveling with a driver I don't know makes me feel uncomfortable.
+Imputed,imp_rh_att_shareuncomf,"IMPUTED - For shared ridehailing (e.g., uberPOOL, Lyft Share), traveling with unfamiliar passengers makes me uncomfortable."
+Imputed,imp_rh_att_sharecost,"IMPUTED - The lower cost of shared ridehailing (e.g., uberPOOL, Lyft Share) is worth the additional time picking up and dropping off other passengers."
+Imputed,imp_rh_att_carseat,IMPUTED - The lack of a child safety seat prevents me from using ridehailing services.
+Imputed,imp_rh_att_ada,IMPUTED - The lack of equipment to accommodate disabilities prevents me from using ridehailing services.
+Imputed,imp_rh_att_homeloc,"IMPUTED - Ridehailing service availability affects where I choose to live, work, and/or go to school."
+Imputed,imp_av_att_avimpaired,"IMPUTED - AVs would help me avoid impaired driving (e.g., under the effects of medication or alcohol)."
+Imputed,imp_av_att_joydriving,IMPUTED - AVs will eliminate my joy of driving.
+Imputed,imp_av_att_saferped,IMPUTED - AVs would make me feel safer on the street as a pedestrian or as a cyclist.
+Imputed,imp_av_att_children,IMPUTED - I would feel comfortable having an AV pick-up/drop-off children without adult supervision.
+Imputed,imp_av_att_equipfail,"IMPUTED - I am concerned about the potential failure of AV sensors, equipment, technology, or programs."
+Imputed,imp_av_att_carstress,IMPUTED - AVs would make traveling by car less stressful for me.
+Imputed,imp_av_att_sleep,IMPUTED - I would feel comfortable sleeping while traveling in an AV.
+Imputed,imp_av_att_longdist,IMPUTED - I would make more long-distance trips when AVs are available because I wouldn't have to drive.
+Imputed,imp_av_att_dataleak,IMPUTED - I am concerned that my travel logs and personal information stored in AVs could be leaked.
+Imputed,imp_av_att_errands,IMPUTED - I would send an AV to pick-up groceries/laundry/food orders by itself.
+Imputed,imp_av_att_neverride,IMPUTED - I will never ride in an AV.
+Imputed,imp_av_att_takecontrol,IMPUTED - I want the ability to take control of the AV at any time during the ride.
+Imputed,imp_av_att_hhshare,IMPUTED - AVs would make it easy to share vehicles within my household because they can pick-up/drop-off household members on their own.
+Imputed,imp_av_att_savetime,IMPUTED - AVs would save me time and money for parking by dropping me off and parking themselves.
+Imputed,imp_av_change_makemoretrips,IMPUTED - Likelihood of - Making additional trips that are not made now
+Imputed,imp_av_change_travfar_eatshop,IMPUTED - Likelihood of - Traveling farther to go shopping or eat out
+Imputed,imp_av_change_travfar_social,IMPUTED - Likelihood of - Traveling farther to go to social/recreational activities
+Imputed,imp_av_change_travaftdark,IMPUTED - Likelihood of - Traveling and do more activities after dark
+Imputed,imp_av_change_longdist,IMPUTED - Likelihood of - Making more long-distance road trips
+Imputed,imp_av_change_travpeakhr,IMPUTED - Likelihood of - Traveling more in peak hours (due to ability to perform other activities while traveling in an AV).
+Imputed,imp_av_change_homeloc,IMPUTED - Likelihood of - Moving to a better location or home
+Imputed,imp_av_change_wrkloc,IMPUTED - Likelihood of - Changing workplace to a location with better/more jobs
+Imputed,imp_av_change_congtol,IMPUTED - Likelihood of - Tolerating congestion better since there is no need to drive
+Imputed,imp_av_rh_privateride,"IMPUTED - I will use AV ridehailing services alone or with coworkers, friends, or family."
+Imputed,imp_av_rh_sharedride,IMPUTED - I will use AV ridehailing services with other passengers I don't know.
+Imputed,imp_av_rh_backupdriver,IMPUTED - I would be willing to pay extra for having a backup human driver inside the AV during my ride.
+Imputed,imp_av_rh_lease,IMPUTED - I would feel comfortable leasing my personal AV to ridehailing companies so that I can earn money when I am not using it.
+Imputed,imp_av_att_saferhuman,IMPUTED - AVs should be allowed on the market only when they prove to be at least as safe as human drivers.
+Imputed,imp_av_att_safepriorpedest,IMPUTED - AVs should prioritize the safety of pedestrians and bicyclists on the road over that of passengers in the vehicle.
+Imputed,imp_av_att_safepriorchoice,"IMPUTED - AV owners should be able to program how their AVs prioritize safety of different groups in the event of a crash (e.g., pedestrians, bicyclists, other vehicles, or AV passengers)."
+Imputed,imp_av_att_speedlaw,IMPUTED - Laws should be passed to require AVs to travel at 25 mph or less on city streets.
+Imputed,imp_av_att_liability,"IMPUTED - In an AV crash, vehicle manufacturers and their insurance companies should be held responsible (instead of the AV owner, passenger, or operator)."
+Imputed,imp_av_att_dedicatedlane,IMPUTED - The government should establish dedicated AV-only lanes/areas.
+Household,hh_veh,Number of motorized vehicles (including four-wheelers and two-wheelers) available to the household
+Household,veh1_make,Vehicle 1 - Make
+Household,veh2_make,Vehicle 2 - Make
+Household,veh3_make,Vehicle 3 - Make
+Household,veh4_make,Vehicle 4 - Make
+Household,veh5_make,Vehicle 5 - Make
+Household,veh6_make,Vehicle 6 - Make
+Household,veh7_make,Vehicle 7 - Make
+Household,veh8_make,Vehicle 8 - Make
+Household,veh9_make,Vehicle 9 - Make
+Household,veh10_make,Vehicle 10 - Make
+Household,veh1_modyr,Vehicle 1 - Model year
+Household,veh2_modyr,Vehicle 2 - Model year
+Household,veh3_modyr,Vehicle 3 - Model year
+Household,veh4_modyr,Vehicle 4 - Model year
+Household,veh5_modyr,Vehicle 5 - Model year
+Household,veh6_modyr,Vehicle 6 - Model year
+Household,veh7_modyr,Vehicle 7 - Model year
+Household,veh8_modyr,Vehicle 8 - Model year
+Household,veh9_modyr,Vehicle 9 - Model year
+Household,veh10_modyr,Vehicle 10 - Model year
+Household,veh1_yracq,Vehicle 1 - Year acquired
+Household,veh2_yracq,Vehicle 2 - Year acquired
+Household,veh3_yracq,Vehicle 3 - Year acquired
+Household,veh4_yracq,Vehicle 4 - Year acquired
+Household,veh5_yracq,Vehicle 5 - Year acquired
+Household,veh6_yracq,Vehicle 6 - Year acquired
+Household,veh7_yracq,Vehicle 7 - Year acquired
+Household,veh8_yracq,Vehicle 8 - Year acquired
+Household,veh9_yracq,Vehicle 9 - Year acquired
+Household,veh10_yracq,Vehicle 10 - Year acquired
+Household,veh1_model,Vehicle 1 - Model
+Household,veh2_model,Vehicle 2 - Model
+Household,veh3_model,Vehicle 3 - Model
+Household,veh4_model,Vehicle 4 - Model
+Household,veh5_model,Vehicle 5 - Model
+Household,veh6_model,Vehicle 6 - Model
+Household,veh7_model,Vehicle 7 - Model
+Household,veh8_model,Vehicle 8 - Model
+Household,veh9_model,Vehicle 9 - Model
+Household,veh10_model,Vehicle 10 - Model
+Household,veh1_fuel,Vehicle 1 - Fuel type
+Household,veh2_fuel,Vehicle 2 - Fuel type
+Household,veh3_fuel,Vehicle 3 - Fuel type
+Household,veh4_fuel,Vehicle 4 - Fuel type
+Household,veh5_fuel,Vehicle 5 - Fuel type
+Household,veh6_fuel,Vehicle 6 - Fuel type
+Household,veh7_fuel,Vehicle 7 - Fuel type
+Household,veh8_fuel,Vehicle 8 - Fuel type
+Household,veh9_fuel,Vehicle 9 - Fuel type
+Household,veh10_fuel,Vehicle 10 - Fuel type
+Household,veh1_miles,Vehicle 1 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh2_miles,Vehicle 2 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh3_miles,Vehicle 3 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh4_miles,Vehicle 4 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh5_miles,Vehicle 5 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh6_miles,Vehicle 6 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh7_miles,Vehicle 7 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh8_miles,Vehicle 8 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh9_miles,Vehicle 9 - Annual Miles Driven by All Drivers (Estimate)
+Household,veh10_miles,Vehicle 10 - Annual Miles Driven by All Drivers (Estimate)
+Household,adas_lanekeep,Driving assistance features in Vehicle 1 - Lane keeping system
+Household,adas_backcam,Driving assistance features in Vehicle 1 - Backup camera
+Household,adas_acc,Driving assistance features in Vehicle 1 - Adaptive Cruise Control (ACC)
+Household,adas_abs,Driving assistance features in Vehicle 1 - Automated braking system
+Household,adas_blindspot,Driving assistance features in Vehicle 1 - Blind spot monitoring
+Household,adas_other,Driving assistance features in Vehicle 1 - Other
+Household,adas_none,Driving assistance features in Vehicle 1 - None
+Household,adas_notsure,Driving assistance features in Vehicle 1 - Not sure
+Household,adas_other_text,Driving assistance features in Vehicle 1 - Other - Text description
+Residential Preference,homeloc_largehome,Features respondent did/would seek in current/future home - Large home
+Residential Preference,homeloc_backyard,Features respondent did/would seek in current/future home - Backyard
+Residential Preference,homeloc_singlefam,Features respondent did/would seek in current/future home - Single family home (stand-alone home)
+Residential Preference,homeloc_closework,Features respondent did/would seek in current/future home - Close to work/school location (for one or more household members)
+Residential Preference,homeloc_closeshops,Features respondent did/would seek in current/future home - Close to shops/services
+Residential Preference,homeloc_closenature,Features respondent did/would seek in current/future home - Close to parks/nature
+Residential Preference,homeloc_closefamfriend,Features respondent did/would seek in current/future home - Close to family friends
+Residential Preference,homeloc_goodschool,Features respondent did/would seek in current/future home - Good public schools
+Residential Preference,homeloc_walkbike,Features respondent did/would seek in current/future home - Easy to walk or bike around neighborhood
+Residential Preference,homeloc_transit,Features respondent did/would seek in current/future home - Good access to public transit
+Residential Preference,homeloc_lowcrime,Features respondent did/would seek in current/future home - Low crime neighborhood
+Travel Patterns,CommuteValidation,CommuteValidation
+Travel Patterns,CommuteLocation,Main commute location - derived from number of days respondent travel to work and/or school
+Travel Patterns,com_daystowork,Days per week respondent travel to work
+Travel Patterns,com_daystoschool,Days per week respondent travel to school
+Travel Patterns,com_telecommute,Days per week respondents telecommute for work
+Travel Patterns,avgmlsdriven,"Average miles driven in a week. Does not include miles driving on the clock for job (e.g., bus driver, Uber/Lyft driver)."
+Travel Patterns,com_distance,Distance from home to main commute location
+Travel Patterns,com_time,"Typical day (one-way) commute time to main commute location, by the means of transportation used most often"
+Travel Patterns,com_mode,Means of transportation used most often for commute
+Travel Patterns,com_frq_sov,"Frequency of mode use on trips to main commute location - Drive private vehicle, alone"
+Travel Patterns,com_frq_hovdriver,"Frequency of mode use on trips to main commute location - Drive private vehicle, with passengers"
+Travel Patterns,com_frq_hovpass,"Frequency of mode use on trips to main commute location - Ride in private vehicle, with others"
+Travel Patterns,com_frq_carshare,"Frequency of mode use on trips to main commute location - Carsharing services (e.g., Zipcar)"
+Travel Patterns,com_frq_bus,Frequency of mode use on trips to main commute location - Public transit: bus
+Travel Patterns,com_frq_lightrail,Frequency of mode use on trips to main commute location - Public transit: light rail
+Travel Patterns,com_frq_ridehailing,Frequency of mode use on trips to main commute location - Uber/Lyft/other ridehailing service
+Travel Patterns,com_frq_taxi,Frequency of mode use on trips to main commute location - Taxi
+Travel Patterns,com_frq_bike,Frequency of mode use on trips to main commute location - Bicycle (including bikesharing)
+Travel Patterns,com_frq_escooter,"Frequency of mode use on trips to main commute location - E-scooter (e.g., Bird, Lime)"
+Travel Patterns,com_frq_walk,Frequency of mode use on trips to main commute location - Walk
+Travel Patterns,com_frq_other,Frequency of mode use on trips to main commute location - Other
+Travel Patterns,com_frq_othertext,Frequency of mode use on trips to main commute location - Other - Text description
+Travel Patterns,ncom_frq_sov,"Frequency of mode use on non-commute trips - Drive private vehicle, alone"
+Travel Patterns,ncom_frq_hovdriver,"Frequency of mode use on non-commute trips - Drive private vehicle, with passengers"
+Travel Patterns,ncom_frq_hovpass,"Frequency of mode use on non-commute trips - Ride in private vehicle, with others"
+Travel Patterns,ncom_frq_carshare,"Frequency of mode use on non-commute trips - Carsharing services (e.g., Zipcar)"
+Travel Patterns,ncom_frq_bus,Frequency of mode use on non-commute trips. - Public transit: bus
+Travel Patterns,ncom_frq_lightrail,Frequency of mode use on non-commute trips - Public transit: light rail
+Travel Patterns,ncom_frq_ridehailing,Frequency of mode use on non-commute trips - Uber/Lyft/other ridehailing service
+Travel Patterns,ncom_frq_taxi,Frequency of mode use on non-commute trips - Taxi
+Travel Patterns,ncom_frq_bike,Frequency of mode use on non-commute trips - Bicycle (including bikesharing)
+Travel Patterns,ncom_frq_escooter,"Frequency of mode use on non-commute trips - E-scooter (e.g., Bird, Lime)"
+Travel Patterns,ncom_frq_walk,Frequency of mode use on non-commute trips - Walk
+Travel Patterns,ncom_frq_other,Frequency of mode use on non-commute trips - Other
+Travel Patterns,ncom_frq_othertext,Frequency of mode use on non-commute trips - Other - Text description
+Travel Patterns,cond_drivegeneral,Conditions that prevent or limit from - Driving in general
+Travel Patterns,cond_drivenight,Conditions that prevent or limit from - Driving at night
+Travel Patterns,cond_pubtransit,Conditions that prevent or limit from - Taking public transit
+Travel Patterns,cond_bike,Conditions that prevent or limit from - Bicycling
+Travel Patterns,cond_walk,Conditions that prevent or limit from - Walking
+Travel Patterns,hh_adultnodrive,"Adults (18 years old or older) in household, other than respondent, with conditions that either partially or fully limit their ability to drive"
+Purchases for delivery,del_purchitem,"In the past 30 days, number of items purchased online delivered to home"
+Purchases for delivery,del_prepmeal,"In the past 30 days, number of prepared meals delivered to home"
+Purchases for delivery,del_grocery,"In the past 30 days, number of groceries delivered to home"
+Long distance trips,ld_leisure_car,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by car:"
+Long distance trips,ld_leisure_plane,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by airplane:"
+Long distance trips,ld_leisure_other,"Number of long-distance trips (at least 75 miles one-way), since the beginning of the year, for leisure/personal purposes,  since the beginning of the year by other means:"
+Long distance trips,ld_biz_car,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by car"
+Long distance trips,ld_biz_plane,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by airplane"
+Long distance trips,ld_biz_other,"Number of long distance trips for business purposes (excluding commute) since the beginning of the year, by other means"
+Long distance trips,airportvisit,"Has the respondent visited the local airport, since the beginning of the year, to either travel or to pick-up/drop-off someone else who was traveling?"
+Questions,pvtridehailing_famil,"Familiarity and use of private ridehailing  (e.g., Uber, Lyft)"
+Questions,shdridehailing_famil,"Familiarity and use of shared ridehailing (e.g., uberPOOL, Lyft Share)"
+Questions,carsharing_famil,"Familiarity and use of carsharing (e.g., Zipcar, Share Now)"
+Questions,bikesharing_famil,"Familiarity and use of bikesharing (e.g., Jump, Grid)"
+Questions,escooter_famil,"Familiarity and use of e-scooter sharing (e.g., Lime, Bird)"
+Questions,rh_att_expensive,"Ridehailing services are too expensive to use on a frequent (e.g., daily or weekly) basis."
+Questions,rh_att_reliable,I would use ridehailing services more often if the service was more reliable.
+Questions,rh_att_savmonpark,Ridehailing services help me save time and money on parking.
+Questions,rh_att_avimpaired,"Ridehailing services help me avoid impaired driving (e.g., driving under the influence)."
+Questions,rh_att_carunavail,"Ridehailing services are good alternatives when my car is temporarily unavailable (e.g., when it is being repaired)."
+Questions,rh_att_awayhome,Ridehailing services are good travel options for me when I am away from home.
+Questions,rh_att_gettotransit,Ridehailing services help me get to/from public transit stops.
+Questions,rh_att_transnotavl,Ridehailing services are good options for me when or where public transit is not available.
+Questions,rh_att_fewcar,Ridehailing services allow me to live with fewer or no cars.
+Questions,rh_att_drivuncomf,Traveling with a driver I don't know makes me feel uncomfortable.
+Questions,rh_att_shareuncomf,"For shared ridehailing (e.g., uberPOOL, Lyft Share), traveling with unfamiliar passengers makes me uncomfortable."
+Questions,rh_att_sharecost,"The lower cost of shared ridehailing (e.g., uberPOOL, Lyft Share) is worth the additional time picking up and dropping off other passengers."
+Questions,rh_att_carseat,The lack of a child safety seat prevents me from using ridehailing services.
+Questions,rh_att_ada,The lack of equipment to accommodate disabilities prevents me from using ridehailing services.
+Questions,rh_att_homeloc,"Ridehailing service availability affects where I choose to live, work, and/or go to school."
+Questions,bes_servicetype,Last trip using bikesharing or e-scooter sharing - Type of service
+Questions,bes_triptime,Last trip using bikesharing or e-scooter sharing - Time of trip
+Questions,bes_triplength,Last trip using bikesharing or e-scooter sharing - Trip length
+Questions,bes_purpose,Last trip using bikesharing or e-scooter sharing - Primary trip purpose
+Questions,bes_purpose_othertext,Last trip using bikesharing or e-scooter sharing -  Primary trip purpose - Other - Text description
+Questions,bes_reas_nopark,Last trip using bikesharing or e-scooter sharing - Reasons for using service - No need to park/parking was expensive or scarce
+Questions,bes_reas_exerc,Last trip using bikesharing or e-scooter sharing - Reasons for using service - For more physical exercise
+Questions,bes_reas_savetime,Last trip using bikesharing or e-scooter sharing - Reasons for using service - To save time
+Questions,bes_reas_savemon,Last trip using bikesharing or e-scooter sharing - Reasons for using service - To save money
+Questions,bes_reas_ptnotavl,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Public transit was not available
+Questions,bes_reas_ptnotconv,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Public transit was not convenient
+Questions,bes_reas_vehnotavl,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Private vehicle was not available
+Questions,bes_reas_joy,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Just to enjoy the ride/try the new service
+Questions,bes_reas_other,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Other
+Questions,bes_reas_othertext,Last trip using bikesharing or e-scooter sharing - Reasons for using service - Other - Text description
+Questions,bes_alternmode,Last trip using bikesharing or e-scooter sharing - Alternative mode
+Questions,bes_alternmode_othertext,Last trip using bikesharing or e-scooter sharing - Alternative mode - Other - Text description
+Questions,rh_servicetype,Last trip using ridehailing - Type of service
+Questions,rh_triptime,Last trip using ridehailing - Time of trip
+Questions,rh_tripwait,Last trip using ridehailing - Wait time
+Questions,rh_tripduration,Last trip using ridehailing - In vehicle travel time
+Questions,rh_tripcost_known,Last trip using ridehailing - Is the trip cost known?
+Questions,rh_tripcost_value,Last trip using ridehailing - Trip cost
+Questions,rh_trippurp,Last trip using ridehailing - Primary trip purpose
+Questions,rh_trippurp_othertext,Last trip using ridehailing - Primary trip purpose - Other - Text description
+Questions,rh_travelalone,Last trip using ridehailing - Travel companionship - I was the only passenger
+Questions,rh_travelwhfriends,"Last trip using ridehailing - Travel companionship - Family members, friends or colleagues present"
+Questions,rh_travelwhshared,Last trip using ridehailing - Travel companionship - Other passengers matched via the app (for shared hidehailing) present
+Questions,rh_nfriendstrip,"Last trip using ridehailing - Travel companionship - Number of family members, friends or colleagues on trip"
+Questions,rh_nmatchpasseng,Last trip using ridehailing - Travel companionship - Number of other passengers matched via the app (for shared hidehailing) on trip
+Questions,rh_alternmode,Last trip using ridehailing - Alternative mode
+Questions,rh_alternmode_othertext,Last trip using ridehailing - Alternative mode - Other - Text description
+Questions,rh_addtimeshare,Last trip using ridehailing - Maximum additional travel time accepted if shared ridehailing was available for half the price paid
+Questions,rh_monthexpend,Ridehailing expenditure on previous month
+Questions,rh_change_sov,"Changes on mode usage after beginning to use ridehailing services - Drive private vehicle, alone"
+Questions,rh_change_hovdriver,"Changes on mode usage after beginning to use ridehailing services - Drive private vehicle, with passengers"
+Questions,rh_change_hovpass,"Changes on mode usage after beginning to use ridehailing services - Ride in private vehicle, with others"
+Questions,rh_change_bus,Changes on mode usage after beginning to use ridehailing services - Public transit: bus
+Questions,rh_change_lightrail,Changes on mode usage after beginning to use ridehailing services - Public transit: light rail
+Questions,rh_change_taxi,Changes on mode usage after beginning to use ridehailing services - Taxi
+Questions,rh_change_bikescoot,Changes on mode usage after beginning to use ridehailing services - Bicycle or e-scooter
+Questions,rh_change_walk,Changes on mode usage after beginning to use ridehailing services - Walk
+Questions,SP1_Scen1_Answer,Ridehailing Stated Preference - Scenario A - Answer
+Questions,SP1_Scen2_Answer,Ridehailing Stated Preference - Scenario B - Answer
+Questions,SP1_Scen3_Answer,Ridehailing Stated Preference - Scenario C - Answer
+Questions,SP1_Scen1,Ridehailing Stated Preference - Scenario A - Scenario assigned to respondent
+Questions,SP1_Scen2,Ridehailing Stated Preference - Scenario B - Scenario assigned to respondent
+Questions,SP1_Scen3,Ridehailing Stated Preference - Scenario C - Scenario assigned to respondent
+Questions,SP1_Scen1_Motive,Ridehailing Stated Preference - Scenario A - Trip Purpose
+Questions,SP1_Scen1_PVT_Cost,Ridehailing Stated Preference - Scenario A - Private ridehailing - Trip cost
+Questions,SP1_Scen1_PVT_TTime,Ridehailing Stated Preference - Scenario A - Private ridehailing - Travel time
+Questions,SP1_Scen1_PVT_AddPass,Ridehailing Stated Preference - Scenario A - Private ridehailing - Added passengers
+Questions,SP1_Scen1_SHR_Cost,Ridehailing Stated Preference - Scenario A - Shared ridehailing - Trip cost
+Questions,SP1_Scen1_SHR_TTime,Ridehailing Stated Preference - Scenario A - Shared ridehailing - Travel time
+Questions,SP1_Scen1_SHR_AddPass,Ridehailing Stated Preference - Scenario A - Shared ridehailing - Added passengers
+Questions,SP1_Scen2_Motive,Ridehailing Stated Preference - Scenario B - Trip purpose
+Questions,SP1_Scen2_PVT_Cost,Ridehailing Stated Preference - Scenario B - Private ridehailing - Trip cost
+Questions,SP1_Scen2_PVT_TTime,Ridehailing Stated Preference - Scenario B - Private ridehailing - Travel time
+Questions,SP1_Scen2_PVT_AddPass,Ridehailing Stated Preference - Scenario B - Private ridehailing - Added passengers
+Questions,SP1_Scen2_SHR_Cost,Ridehailing Stated Preference - Scenario B - Shared ridehailing - Trip cost
+Questions,SP1_Scen2_SHR_TTime,Ridehailing Stated Preference - Scenario B - Shared ridehailing - Travel time
+Questions,SP1_Scen2_SHR_AddPass,Ridehailing Stated Preference - Scenario B - Shared ridehailing - Added passengers
+Questions,SP1_Scen3_Motive,Ridehailing Stated Preference - Scenario C - Trip purpose
+Questions,SP1_Scen3_PVT_Cost,Ridehailing Stated Preference - Scenario C - Private ridehailing - Trip cost
+Questions,SP1_Scen3_PVT_TTime,Ridehailing Stated Preference - Scenario C - Private ridehailing - Travel time
+Questions,SP1_Scen3_PVT_AddPass,Ridehailing Stated Preference - Scenario C - Private ridehailing - Added passengers
+Questions,SP1_Scen3_SHR_Cost,Ridehailing Stated Preference - Scenario C - Shared ridehailing - Trip cost
+Questions,SP1_Scen3_SHR_TTime,Ridehailing Stated Preference - Scenario C - Shared ridehailing - Travel time
+Questions,SP1_Scen3_SHR_AddPass,Ridehailing Stated Preference - Scenario C - Shared ridehailing - Added passengers
+Autonomous Vehicles,av_familiarity,Familiarity with Autonomous Vehicles
+Autonomous Vehicles,av_att_avimpaired,"AVs would help me avoid impaired driving (e.g., under the effects of medication or alcohol)."
+Autonomous Vehicles,av_att_joydriving,AVs will eliminate my joy of driving.
+Autonomous Vehicles,av_att_saferped,AVs would make me feel safer on the street as a pedestrian or as a cyclist.
+Autonomous Vehicles,av_att_children,I would feel comfortable having an AV pick-up/drop-off children without adult supervision.
+Autonomous Vehicles,av_att_equipfail,"I am concerned about the potential failure of AV sensors, equipment, technology, or programs."
+Autonomous Vehicles,av_att_carstress,AVs would make traveling by car less stressful for me.
+Autonomous Vehicles,av_att_sleep,I would feel comfortable sleeping while traveling in an AV.
+Autonomous Vehicles,av_att_longdist,I would make more long-distance trips when AVs are available because I wouldn't have to drive.
+Autonomous Vehicles,av_att_dataleak,I am concerned that my travel logs and personal information stored in AVs could be leaked.
+Autonomous Vehicles,av_att_errands,I would send an AV to pick-up groceries/laundry/food orders by itself.
+Autonomous Vehicles,av_att_neverride,I will never ride in an AV.
+Autonomous Vehicles,av_att_takecontrol,I want the ability to take control of the AV at any time during the ride.
+Autonomous Vehicles,av_att_hhshare,AVs would make it easy to share vehicles within my household because they can pick-up/drop-off household members on their own.
+Autonomous Vehicles,av_att_savetime,AVs would save me time and money for parking by dropping me off and parking themselves.
+Autonomous Vehicles,av_addcomtime,"Additional time on commute (based on current commute), given regular access to an AV (by owning, leasing, or using automated ridehailing services)"
+Autonomous Vehicles,av_change_makemoretrips,Likelihood of - Making additional trips that are not made now
+Autonomous Vehicles,av_change_travfar_eatshop,Likelihood of - Traveling farther to go shopping or eat out
+Autonomous Vehicles,av_change_travfar_social,Likelihood of - Traveling farther to go to social/recreational activities
+Autonomous Vehicles,av_change_travaftdark,Likelihood of - Traveling and do more activities after dark
+Autonomous Vehicles,av_change_longdist,Likelihood of - Making more long-distance road trips
+Autonomous Vehicles,av_change_travpeakhr,Likelihood of - Traveling more in peak hours (due to ability to perform other activities while traveling in an AV).
+Autonomous Vehicles,av_change_homeloc,Likelihood of - Moving to a better location or home
+Autonomous Vehicles,av_change_wrkloc,Likelihood of - Changing workplace to a location with better/more jobs
+Autonomous Vehicles,av_change_congtol,Likelihood of - Tolerating congestion better since there is no need to drive
+Autonomous Vehicles,av_timepurchase,When does respondent expect to buy an AV?
+Autonomous Vehicles,av_willpay,"Additional value respondent would be willing to pay for a fully autonomous version of a vehicle which the regular human-driven model costs $25,000"
+Autonomous Vehicles,av_rh_privateride,"I will use AV ridehailing services alone or with coworkers, friends, or family."
+Autonomous Vehicles,av_rh_sharedride,I will use AV ridehailing services with other passengers I don't know.
+Autonomous Vehicles,av_rh_backupdriver,I would be willing to pay extra for having a backup human driver inside the AV during my ride.
+Autonomous Vehicles,av_rh_lease,I would feel comfortable leasing my personal AV to ridehailing companies so that I can earn money when I am not using it.
+Autonomous Vehicles,av_change_hhcarown,"Given the number of cars the household currently owns, expected vehicle ownership change once AVs are available for purchase or use as a ridehailing service"
+Autonomous Vehicles,av_change_privateveh,Expected changes on mode usage given regular access to an AV - Human-driven personal vehicle
+Autonomous Vehicles,av_change_humrh,Expected changes on mode usage given regular access to an AV - Human-driven ridehailing services
+Autonomous Vehicles,av_change_bus,Expected changes on mode usage given regular access to an AV - Public transit: bus
+Autonomous Vehicles,av_change_lightrail,Expected changes on mode usage given regular access to an AV - Public transit: light rail
+Autonomous Vehicles,av_change_walk,Expected changes on mode usage given regular access to an AV - Walk
+Autonomous Vehicles,av_change_bikescoot,Expected changes on mode usage given regular access to an AV - Bicycle or scooter
+Autonomous Vehicles,av_change_plane,Expected changes on mode usage given regular access to an AV - Airplane
+Autonomous Vehicles,av_att_saferhuman,AVs should be allowed on the market only when they prove to be at least as safe as human drivers.
+Autonomous Vehicles,av_att_safepriorpedest,AVs should prioritize the safety of pedestrians and bicyclists on the road over that of passengers in the vehicle.
+Autonomous Vehicles,av_att_safepriorchoice,"AV owners should be able to program how their AVs prioritize safety of different groups in the event of a crash (e.g., pedestrians, bicyclists, other vehicles, or AV passengers)."
+Autonomous Vehicles,av_att_speedlaw,Laws should be passed to require AVs to travel at 25 mph or less on city streets.
+Autonomous Vehicles,av_att_liability,"In an AV crash, vehicle manufacturers and their insurance companies should be held responsible (instead of the AV owner, passenger, or operator)."
+Autonomous Vehicles,av_att_dedicatedlane,The government should establish dedicated AV-only lanes/areas.
+Autonomous Vehicles,AVTripPurpose,Activites respondent would engage in an AV during a trip - SCENARIO TO WHICH RESPONDENT ANSWERED THE QUESTION
+Autonomous Vehicles,av_multi_nselected,Number of selected alternatives on question E12 - Multitasking
+Autonomous Vehicles,av_multi_work,"Activites respondent would engage in an AV during a [AVTripPurpose] - Work, or study"
+Autonomous Vehicles,av_multi_phone,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Talk on the phone/ send or read text messages/teleconference
+Autonomous Vehicles,av_multi_read,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Read
+Autonomous Vehicles,av_multi_sleep,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Sleep
+Autonomous Vehicles,av_multi_tv,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Watch movies/ TV/ other entertainment
+Autonomous Vehicles,av_multi_games,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Play games
+Autonomous Vehicles,av_multi_eatdrink,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Eat and drink
+Autonomous Vehicles,av_multi_interpass,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Interact with other passengers
+Autonomous Vehicles,av_multi_scenery,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Enjoy the scenery
+Autonomous Vehicles,av_multi_watchroad,"Activites respondent would engage in an AV during a [AVTripPurpose] trip - Watch the road, even though I would not be driving"
+Autonomous Vehicles,av_multi_noav,Activites respondent would engage in an AV during a [AVTripPurpose] trip - I would not ride in an AV
+Autonomous Vehicles,av_multi_other,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Other
+Autonomous Vehicles,av_multi_othertext,Activites respondent would engage in an AV during a [AVTripPurpose] trip - Other - Text description
+AV Stated Preference Questions,SP2_Scen1_Reg_Answer,AV purchase Stated preference - Scenario A - Buy a regular vehicle - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_AV_Answer,AV purchase Stated preference - Scenario A - Buy an AV - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_RH_Answer,AV purchase Stated preference - Scenario A - Don't buy a vehicle and use AV ridehailing/rental services - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_Reg_Answer,AV purchase Stated preference - Scenario B - Buy a regular vehicle - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_AV_Answer,AV purchase Stated preference - Scenario B - Buy an AV - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_RH_Answer,AV purchase Stated preference - Scenario B - Don't buy a vehicle and use AV ridehailing/rental services - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_Reg_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario A - Buy a regular vehicle - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_AV_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario A - Buy an AV - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_RH_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario A - Don't buy a vehicle and use AV ridehailing/rental services - Rank Answer
+AV Stated Preference Questions,SP2_Scen1_Answer,AV purchase Stated preference - Scenario A - Purchase preference
+AV Stated Preference Questions,SP2_Scen2_Reg_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario B - Buy a regular vehicle - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_AV_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario B - Buy an AV - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_RH_Answer_REPAIRED,REPAIRED AV purchase Stated preference - Scenario B - Don't buy a vehicle and use AV ridehailing/rental services - Rank Answer
+AV Stated Preference Questions,SP2_Scen2_Answer,AV purchase Stated preference - Scenario B - Purchase preference
+AV Stated Preference Questions,SP2_Scen1,AV purchase Stated preference - Scenario A - Scenario assigned to respondent
+AV Stated Preference Questions,SP2_Scen2,AV purchase Stated preference - Scenario B - Scenario assigned to respondent
+AV Stated Preference Questions,SP2_Scen1_Reg_FC,AV purchase Stated preference - Scenario A - Buy a regular vehicle - Fixed cost
+AV Stated Preference Questions,SP2_Scen1_Reg_VC,AV purchase Stated preference - Scenario A - Buy a regular vehicle - Variable cost
+AV Stated Preference Questions,SP2_Scen1_Reg_Wait,AV purchase Stated preference - Scenario A - Buy a regular vehicle - Average wait
+AV Stated Preference Questions,SP2_Scen1_AV_FC,AV purchase Stated preference - Scenario A - Buy an AV - Fixed cost
+AV Stated Preference Questions,SP2_Scen1_AV_VC,AV purchase Stated preference - Scenario A - Buy an AV - Variable cost
+AV Stated Preference Questions,SP2_Scen1_AV_Wait,AV purchase Stated preference - Scenario A - Buy an AV - Average wait
+AV Stated Preference Questions,SP2_Scen1_RH_FC,AV purchase Stated preference - Scenario A - Don't buy a vehicle and use AV ridehailing/rental services - Fixed cost
+AV Stated Preference Questions,SP2_Scen1_RH_VC,AV purchase Stated preference - Scenario A - Don't buy a vehicle and use AV ridehailing/rental services - Variable cost
+AV Stated Preference Questions,SP2_Scen1_RH_Wait,AV purchase Stated preference - Scenario A - Don't buy a vehicle and use AV ridehailing/rental services - Average wait
+AV Stated Preference Questions,SP2_Scen2_Reg_FC,AV purchase Stated preference - Scenario B - Buy a regular vehicle - Fixed cost
+AV Stated Preference Questions,SP2_Scen2_Reg_VC,AV purchase Stated preference - Scenario B - Buy a regular vehicle - Variable cost
+AV Stated Preference Questions,SP2_Scen2_Reg_Wait,AV purchase Stated preference - Scenario B - Buy a regular vehicle - Average wait
+AV Stated Preference Questions,SP2_Scen2_AV_FC,AV purchase Stated preference - Scenario B - Buy an AV - Fixed cost
+AV Stated Preference Questions,SP2_Scen2_AV_VC,AV purchase Stated preference - Scenario B - Buy an AV - Variable cost
+AV Stated Preference Questions,SP2_Scen2_AV_Wait,AV purchase Stated preference - Scenario B - Buy an AV - Average wait
+AV Stated Preference Questions,SP2_Scen2_RH_FC,AV purchase Stated preference - Scenario B - Don't buy a vehicle and use AV ridehailing/rental services - Fixed cost
+AV Stated Preference Questions,SP2_Scen2_RH_VC,AV purchase Stated preference - Scenario B - Don't buy a vehicle and use AV ridehailing/rental services - Variable cost
+AV Stated Preference Questions,SP2_Scen2_RH_Wait,AV purchase Stated preference - Scenario B - Don't buy a vehicle and use AV ridehailing/rental services - Average wait
+AV Stated Preference Ranking Question,SP_Rank_Final_Car,AV mode choice Stated Preference - Private vehicle (human-driven or AV) - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_Bike,AV mode choice Stated Preference - Bicycle - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_Transit,AV mode choice Stated Preference - Public transit: Use bus or rail - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Private,AV mode choice Stated Preference - Private ridehailing (human-driven) - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Shared,AV mode choice Stated Preference - Shared ridehailing (human-driven) - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Private,AV mode choice Stated Preference - AV Private ridehailing - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Shared,AV mode choice Stated Preference - AV Shared ridehailing - Rank Answer
+AV Stated Preference Ranking Question,SP_Rank_Scen,AV mode choice Stated Preference - Scenario assigned to respondent
+AV Stated Preference Ranking Question,SP_Rank_Purpose_int,AV mode choice Stated Preference - Trip purpose - integer
+AV Stated Preference Ranking Question,SP_Rank_Purpose_str,AV mode choice Stated Preference - Trip purpose - string
+AV Stated Preference Ranking Question,SP_Rank_NumAlts,AV mode choice Stated Preference - Number of alternatives available to respondent - Bike not available on airpot trips
+AV Stated Preference Ranking Question,SP_Rank_Final_CarIVTT,AV mode choice Stated Preference - Private vehicle (human-driven or AV) - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_CarWT,AV mode choice Stated Preference - Private vehicle (human-driven or AV) - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_CarCost,AV mode choice Stated Preference - Private vehicle (human-driven or AV) - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_TransitIVTT,AV mode choice Stated Preference - Public transit - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_TransitWT,AV mode choice Stated Preference - Public transit - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_TransitCost,AV mode choice Stated Preference - Public transit - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_BikeIVTT,AV mode choice Stated Preference - Bicycle - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_BikeWT,AV mode choice Stated Preference - Bicycle - Wait travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_BikeCost,AV mode choice Stated Preference - Bicycle - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Private_RH_IVTT,AV mode choice Stated Preference - Private ridehailing (human-driven) - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Private_RH_WT,AV mode choice Stated Preference - Private ridehailing (human-driven) - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Private_RH_Cost,AV mode choice Stated Preference - Private ridehailing (human-driven) - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Shared_RH_IVTT,AV mode choice Stated Preference - Shared ridehailing (human-driven) - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Shared_RH_WT,AV mode choice Stated Preference - Shared ridehailing (human-driven) - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_NoAV_Shared_RH_Cost,AV mode choice Stated Preference - Shared ridehailing (human-driven) - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Private_RH_IVTT,AV mode choice Stated Preference - AV Private ridehailing - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Private_RH_WT,AV mode choice Stated Preference - AV Private ridehailing - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Private_RH_Cost,AV mode choice Stated Preference - AV Private ridehailing - Trip cost
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Shared_RH_IVTT,AV mode choice Stated Preference - AV Shared ridehailing - In vehicle travel time
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Shared_RH_WT,AV mode choice Stated Preference - AV Shared ridehailing - Wait time
+AV Stated Preference Ranking Question,SP_Rank_Final_AV_Shared_RH_Cost,AV mode choice Stated Preference - AV Shared ridehailing - Trip cost
+Background questions,driver,Does respondent have a driver's license?
+Background questions,hh_ndrivers,Number of people in the household with a driver's license (including respondent)
+Background questions,housunit,Housing unit type
+Background questions,housunit_othertext,Housing unit type - Other - Text description
+Background questions,tenure,Tenure status
+Background questions,tenure_othertext,Tenure - Other - Text description
+Background questions,home_yrmoved,Year moved to current address
+Background questions,home_chosen,Has the respondent chosen current home location?
+Background questions,employment,Employment status
+Background questions,yrborn,Year born
+Background questions,Age2019,Respondent age in 2019
+Background questions,AgeGroup1,Age (in 2019) grouped
+Background questions,gender,Gender
+Background questions,placebirth,Place of birth
+Background questions,hispaniclatin,Hispanic or Latino origin
+Background questions,race_white,Race - White or Caucasian
+Background questions,race_black,Race - Black or African American
+Background questions,race_nativeamerican,Race - Native American
+Background questions,race_asian,Race - Asian or Pacific Islander
+Background questions,race_other,Race - Other
+Background questions,race_prefnotanswer,Race - Prefer not to answer
+Background questions,race_othertext,Race - Other - Text description
+Background questions,Race,Race
+Background questions,education,Highest level of education attained.
+Background questions,hh_size,People living in the household
+Background questions,hh_per2_relat,Household person 2 - Relationship to the respondent
+Background questions,hh_per3_relat,Household person 3 - Relationship to the respondent
+Background questions,hh_per4_relat,Household person 4 - Relationship to the respondent
+Background questions,hh_per5_relat,Household person 5 - Relationship to the respondent
+Background questions,hh_per6_relat,Household person 6 - Relationship to the respondent
+Background questions,hh_per7_relat,Household person 7 - Relationship to the respondent
+Background questions,hh_per8_relat,Household person 8 - Relationship to the respondent
+Background questions,hh_per9_relat,Household person 9 - Relationship to the respondent
+Background questions,hh_per10_relat,Household person 10 - Relationship to the respondent
+Background questions,hh_per2_age,Household person 2 - Age
+Background questions,hh_per3_age,Household person 3 - Age
+Background questions,hh_per4_age,Household person 4 - Age
+Background questions,hh_per5_age,Household person 5 - Age
+Background questions,hh_per6_age,Household person 6 - Age
+Background questions,hh_per7_age,Household person 7 - Age
+Background questions,hh_per8_age,Household person 8 - Age
+Background questions,hh_per9_age,Household person 9 - Age
+Background questions,hh_per10_age,Household person 10 - Age
+Background questions,hh_per2_employ,Household person 2 - Employment status
+Background questions,hh_per3_employ,Household person 3 - Employment status
+Background questions,hh_per4_employ,Household person 4 - Employment status
+Background questions,hh_per5_employ,Household person 5 - Employment status
+Background questions,hh_per6_employ,Household person 6 - Employment status
+Background questions,hh_per7_employ,Household person 7 - Employment status
+Background questions,hh_per8_employ,Household person 8 - Employment status
+Background questions,hh_per9_employ,Household person 9 - Employment status
+Background questions,hh_per10_employ,Household person 10 - Employment status
+Background questions,hh_per2_gender,Household person 2 - Gender - Employment status
+Background questions,hh_per3_gender,Household person 3 - Employment status
+Background questions,hh_per4_gender,Household person 4 - Employment status
+Background questions,hh_per5_gender,Household person 5 - Employment status
+Background questions,hh_per6_gender,Household person 6 - Employment status
+Background questions,hh_per7_gender,Household person 7 - Employment status
+Background questions,hh_per8_gender,Household person 8 - Employment status
+Background questions,hh_per9_gender,Household person 9 - Employment status
+Background questions,hh_per10_gender,Household person 10 - Employment status
+Background questions,hh_gender_nmissing,Number of individuals with missing gender in the household
+Background questions,hh_gender_nmale,Number of males in the household
+Background questions,hh_gender_nfemale,Number of females in the household
+Background questions,hh_relat_nmissing,Number of respondents with missing relationship in the household
+Background questions,hh_relat_nself,Number of respondents in the household identified as self
+Background questions,hh_relat_npartner,Number of respondents in the household identified as partner
+Background questions,hh_relat_nchild,"Number of respondents in the household identified as children - not age based, in relationship to the respondent"
+Background questions,hh_relat_nparent,Number of respondents in the household identified as parent
+Background questions,hh_relat_nother,Number of respondents in the household with other relationship to the respondent
+Background questions,hh_age_nmissing,Number of people in the household with missing age information
+Background questions,hh_age_n_0to4,Number of people in the household between 0 and 4 years old
+Background questions,hh_age_n_5to12,Number of people in the household between 5 and 12 years old
+Background questions,hh_age_n_13to17,Number of people in the household between 13 and 17 years old
+Background questions,hh_age_n_18to24,Number of people in the household between 18 and 24 years old
+Background questions,hh_age_n_25to44,Number of people in the household between 25 and 44 years old
+Background questions,hh_age_n_45to64,Number of people in the household between 45 and 64 years old
+Background questions,hh_age_n_65p,Number of people in the household 65 years old and older
+Background questions,hh_emp_nmissing,Number of people in the household with missing occupation information
+Background questions,hh_emp_nworker,Number of workers in the household
+Background questions,hh_emp_nboth,Number of individuals in the household who are both workers and students
+Background questions,hh_emp_nstudent,Number of students in the household
+Background questions,hh_emp_nneither,Number of individuals in the household who are neither workers nor students
+Background questions,hh_nkids_17nunder,Number of children 17 years old and younger in the household
+Background questions,hh_structure_relat,"Household structure, based on relationship to the respondent"
+Background questions,hh_structure_emp,"Household structure, based on occupation of household members"
+Background questions,hh_income,Annual household income before taxes.
+Background questions,UT_IncomeImputation,UT Income Imputation Outcomes - 7 categories
+Background questions,ASU_IncomeImputation,ASU Imputed Income - 6 categories
+Background questions,GT_IncomeImputation,GT Annual household income (imputed) - 7 categories
+Background questions,IncomeImputation,"Imputed Income, all institutions, six categories"
+Data Flags,Flag_HHDrivers,FLAG Number of drivers reported to be greater than household size
+Data Flags,Flag_HHGender,FLAG Gender was missing for one or more household member
+Data Flags,Flag_HHRelationship,FLAG Relationship to respondent was missing to one or more household member
+Data Flags,Flag_HHAge,FLAG Age was missing to one or more household member
+Data Flags,Flag_HHOccupation,FLAG Occupation was missing to one or more household member
+Data Flags,Flag_HHDescription,FLAG Description of one or more household member was missing or incomplete
+Data Flags,Flag_A1_Page1,FLAG Straight lines on question A1 - Page 1
+Data Flags,Flag_A1_Page2,FLAG Straight lines on question A1 - Page 2
+Data Flags,Flag_A1_Page3,FLAG Straight lines on question A1 - Page 3
+Data Flags,Flag_A1_Page4,FLAG Straight lines on question A1 - Page 4
+Data Flags,Flag_D6_Page1,FLAG Straight lines on question D6 - Page 1
+Data Flags,Flag_D6_Page2,FLAG Straight lines on question D6 - Page 2
+Data Flags,Flag_E2_Page1,FLAG Straight lines on question E2 - Page1
+Data Flags,Flag_E2_Page2,FLAG Straight lines on question E2 - Page2
+Data Flags,Flag_E7,FLAG Straight lines on question E7
+Data Flags,Flag_E10,FLAG Straight lines on question E10
+Data Flags,Flag_10Minutes,FLAG Respondent completed the questionnaire in 10 minutes or less
+Data Flags,Flag_1Day,FLAG Respondent completed the questionnaire in 1 day or more
+Data Flags,Flag_IncomeMiss,FLAG Income not reported - imputation needed
+Data Flags,Flag_IncompHomeAddress,"FLAG Incomplete home address, at least one field left empty"
+Data Flags,Flag_IncompComAddress,"FLAG Incomplete commute location address, at least one field left empty"
+Data Flags,Flag_Number,FLAG Number of flags identified on the pre-processing code
+Data Flags,Flag_SeenNotAnswered,FLAG Number of occurrences of seen and not answered questions
+Information from the marketing company,INFOUSA_AGE,INFOUSA PROVIDED Age
+Information from the marketing company,INFOUSA_Gender,INFOUSA PROVIDED Gender
+Information from the marketing company,INFOUSA_IncomeHH,INFOUSA PROVIDED Household Income
+Information from the marketing company,INFOUSA_HomeOwner,INFOUSA PROVIDED Home Owner Status
+Information from the marketing company,INFOUSA_HomeValue,INFOUSA PROVIDED Home Value
+Information from the marketing company,INFOUSA_YearStructure,INFOUSA PROVIDED Structure Year of Dwelling
+Information from the marketing company,INFOUSA_LengthofResidence,INFOUSA PROVIDED Length of Residence
+Information from the marketing company,INFOUSA_Dwellingtype,INFOUSA PROVIDED Dwelling Type
+Information from the marketing company,INFOUSA_Numberinhousehold,INFOUSA PROVIDED Number in Household
+Information from the marketing company,INFOUSA_actualincome,INFOUSA PROVIDED Actual Income
+Information from the marketing company,INFOUSA_MaritalStatus,INFOUSA PROVIDED Marital Status Single versus Married
+Information from the marketing company,INFOUSA_MilitaryVetMilitaryVet,INFOUSA PROVIDED Veteran Status
+Information from the marketing company,INFOUSA_NumberofAdultsinHH,INFOUSA PROVIDED Number of adults in the household
+Information from the marketing company,INFOUSA_NumberofChildreninHH,INFOUSA PROVIDED Number of children in the household
+Information from the marketing company,INFOUSA_PetsDogorCat,INFOUSA PROVIDED Presence of pets
+Information from the marketing company,INFOUSA_PoliticalAffiliation,INFOUSA PROVIDED Political Affiliation
+Information from the marketing company,INFOUSA_PresenceofChildFlag,INFOUSA PROVIDED Presence of children
+Geographical information,HState,Home Location - State FIPS - Census 2010
+Geographical information,HCounty,Home Location - County FIPS - Census 2010
+Geographical information,HTract,Home Location - Census Tract FIPS - Census 2010
+Geographical information,HBlock,Home Location - Census Block FIPS - Census 2010
+Geographical information,HFullFIPS,Home Location - Full FIPS
+Geographical information,WState,Work Location - State FIPS - Census 2010
+Geographical information,WCounty,Work Location - County FIPS - Census 2010
+Geographical information,WTract,Work Location - Census Tract FIPS - Census 2010
+Geographical information,WBlock,Work Location - Census Block FIPS - Census 2010
+Geographical information,WFullFIPS,Work Location - Full FIPS
+Geographical information,GT_outlier,Out of 15-Country Boundary
+Geographical information,rho_flag,Ridehailing Origin - Flag indicating precision of provided data
+Geographical information,rho_availability,Ridehailing Origin - Availability of information
+Geographical information,rho_city,Ridehailing Origin - City
+Geographical information,rho_state,Ridehailing Origin - State
+Geographical information,rho_country,Ridehailing Origin - Country
+Geographical information,rhd_flag,Ridehailing Destination - Flag indicating precision of provided data
+Geographical information,rhd_availability,Ridehailing Destination - Availability of information
+Geographical information,rhd_city,Ridehailing Destination - City
+Geographical information,rhd_state,Ridehailing Destination - State
+Geographical information,rhd_country,Ridehailing Destination - Country
+Geographical information,rho_STATEFP19,Ridehailing Origin - 2019 Census State FIPS Code
+Geographical information,rho_COUNTYFP19,Ridehailing Origin - 2019 Census County FIPS Code
+Geographical information,rho_TRACTCE19,Ridehailing Origin - 2019 Census Census Tract Code
+Geographical information,rho_BLOCKCE19,Ridehailing Origin - 2019 Census Tabulation Block Number
+Geographical information,rhd_STATEFP19,Ridehailing Destination - 2019 Census State FIPS Code
+Geographical information,rhd_COUNTYFP19,Ridehailing Destination - 2019 Census County FIPS Code
+Geographical information,rhd_TRACTCE19,Ridehailing Destination - 2019 Census Census Tract Code
+Geographical information,rhd_BLOCKCE19,Ridehailing Destination - 2019 Census Tabulation Block Number
+Geographical information,HState2,"State FIPS code (Unit: -, Geography: State, Source: Pooled data)"
+Geographical information,HCounty2,"County FIPS code (Unit: -, Geography: County, Source: Pooled data)"
+Geographical information,HTract2,"Census tract FIPS code (Unit: -, Geography: Census Tract, Source: Pooled data)"
+Geographical information,HFullFIPS2,"11 digit FIPS code (Unit: -, Geography: Census Tract, Source: Pooled data)"
+Built environment attributes,H_sqmile,"Land area (Unit: square mile, Geography: Census tract, Source: Census TIGER/Line Shapefiles)"
+Built environment attributes,H_den_pop,"Population density of the home address census tract (Unit: person/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_den_hh,"Household density of the home address census tract (Unit: household/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_den_hu,"Housing unit density of the home address census tract (Unit: house unit/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_den_job,"# of jobs of the home address census tract (Unit: # of jobs/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_job_per_hh,"# of jobs per house hold (Unit: # of jobs/household, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_job_per_hu,"# of jobs per housing unit (Unit: # of jobs/housing unit, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_job_per_worker,"# of jobs per worker (Unit: # of jobs/worker, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,H_pctsfh,"% of single family homes (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctmfh,"% of multi-family homes (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctowner,"% of housing units occupied by owners (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctrenter,"% of housing units occupied by renters (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_commuter_pct_tr,"% of people used public transportation to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_commuter_pct_bk,"% of people used bicycle to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_commuter_pct_wk,"% of people walked to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctbuilt_bf50,"% of structure built before 1950 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctbuilt_5069,"% of structure built betewwn 1950-1969 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctbuilt_7089,"% of structure built betewwn 1970-1989 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctbuilt_9009,"% of structure built betewwn 1990-2009 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_pctbuilt_10af,"% of structure built betewwn 2010 or later (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,H_entropy,"This employment mix (or entropy) variable uses the 5-tier employment categories to calculate employment mix. Its formula is borrowed from the EPA SLD manual on the link (p18 ""D2b_E5Mix"") (Unit: , Geography: Block to census tract, Source: 2017 Census LEHD"
+Built environment attributes,H_D3a.w,"Total road network density per square mile (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3aao.w,"Auto-oriented links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3amm.w,"multi-modal links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3apo.w,"pedestrian-oriented links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3b.w,"Total weighted intersection density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3bao.w,"auto-oriented intersections density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3bmm3.w,"density of multi-modal intersections having three legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3bmm4.w,"density of multi-modal intersections having four or more legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3bpo3.w,"density of pedestrianoriented intersections having three legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D3bpo4.w,"density of pedestrianoriented intersections having four or more legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,H_D5ar.w,"Jobs within 45 minutes auto travel time (weighted by total population in 2010) (Unit: # of jobs, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,WState2,"State FIPS code (Unit: -, Geography: State, Source: Pooled data)"
+Built environment attributes,WCounty2,"County FIPS code (Unit: -, Geography: County, Source: Pooled data)"
+Built environment attributes,WTract2,"Census tract FIPS code (Unit: -, Geography: Census Tract, Source: Pooled data)"
+Built environment attributes,WFullFIPS2,"11 digit FIPS code (Unit: -, Geography: Census Tract, Source: Pooled data)"
+Built environment attributes,W_sqmile,"Land area (Unit: square mile, Geography: Census tract, Source: Census TIGER/Line Shapefiles)"
+Built environment attributes,W_den_pop,"Population density of the home address census tract (Unit: person/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_den_hh,"Household density of the home address census tract (Unit: household/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_den_hu,"Housing unit density of the home address census tract (Unit: house unit/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_den_job,"# of jobs of the home address census tract (Unit: # of jobs/sq mile, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_job_per_hh,"# of jobs per house hold (Unit: # of jobs/household, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_job_per_hu,"# of jobs per housing unit (Unit: # of jobs/housing unit, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_job_per_worker,"# of jobs per worker (Unit: # of jobs/worker, Geography: Census tract, Source: 2017 Census LEHD )"
+Built environment attributes,W_pctsfh,"% of single family homes (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctmfh,"% of multi-family homes (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctowner,"% of housing units occupied by owners (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctrenter,"% of housing units occupied by renters (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_commuter_pct_tr,"% of people used public transportation to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_commuter_pct_bk,"% of people used bicycle to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_commuter_pct_wk,"% of people walked to work (excluding taxicab) (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctbuilt_bf50,"% of structure built before 1950 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctbuilt_5069,"% of structure built betewwn 1950-1969 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctbuilt_7089,"% of structure built betewwn 1970-1989 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctbuilt_9009,"% of structure built betewwn 1990-2009 (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_pctbuilt_10af,"% of structure built betewwn 2010 or later (Unit: %, Geography: Census tract, Source: 2018 ACS)"
+Built environment attributes,W_entropy,"This employment mix (or entropy) variable uses the 5-tier employment categories to calculate employment mix. Its formula is borrowed from the EPA SLD manual on the link (p18 ""D2b_E5Mix"") (Unit: , Geography: Block to census tract, Source: 2017 Census LEHD"
+Built environment attributes,W_D3a.w,"Total road network density per square mile (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3aao.w,"Auto-oriented links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3amm.w,"Multi-modal links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3apo.w,"Pedestrian-oriented links density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3b.w,"Total weighted intersection density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3bao.w,"auto-oriented intersections density (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3bmm3.w,"density of multi-modal intersections having three legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3bmm4.w,"density of multi-modal intersections having four or more legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3bpo3.w,"density of pedestrianoriented intersections having three legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D3bpo4.w,"density of pedestrianoriented intersections having four or more legs (weighted by total population in 2010) (Unit: facility miles/square mile, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Built environment attributes,W_D5ar.w,"Jobs within 45 minutes auto travel time (weighted by total population in 2010) (Unit: # of jobs, Geography: Blockgroup to census tract, Source: EPA SLD )"
+Binary variables,StandAloneHome,BINARY - Housing unit - Stand Alone Home
+Binary variables,HomeOwn,BINARY - Tenure - Home Owner
+Binary variables,Worker,BINARY - Employment - Worker
+Binary variables,Student,BINARY - Employment - Student
+Binary variables,RHUser,BINARY - Private ridehailing user
+Binary variables,SharedRHUser,BINARY - Shared ridehailing user
+Binary variables,AV_NotFamiliar,BINARY - AV Familiarity - Not familiar
+Binary variables,AV_Heardofit,BINARY - AV Familiarity - Heard of it
+Binary variables,AV_SomewhatFamiliar,BINARY - AV Familiarity - Somewhat familiar
+Binary variables,AV_VeryFamiliar,BINARY - AV Familiarity - Very familiar
+Binary variables,AV_Rider,BINARY - AV Familiarity - AV rider
+Binary variables,GradeSchool,BINARY - Education - Grade school or less
+Binary variables,HighSchool,BINARY - Education - High school degree
+Binary variables,SomeCollege,BINARY - Education - Some college
+Binary variables,Bachelor,BINARY - Education - Bachelor degree
+Binary variables,Graduate,BINARY - Education - Graduate degree
+Binary variables,HH_1,BINARY - Household size - 1
+Binary variables,HH_2,BINARY - Household size - 2
+Binary variables,HH_3,BINARY - Household size - 3
+Binary variables,HH_4p,BINARY - Household size - 4 or larger
+Binary variables,Age_18_30,BINARY - Age - 18 to 30
+Binary variables,Age_31_40,BINARY - Age - 31 to 40
+Binary variables,Age_41_50,BINARY - Age - 41 to 50
+Binary variables,Age_51_60,BINARY - Age - 51 to 60
+Binary variables,Age_61_70,BINARY - Age - 61 to 70
+Binary variables,Age_71p,BINARY - Age - 71 and above
+Binary variables,INC_0_25k,"BINARY - Income - Less than $25,000"
+Binary variables,INC_25_50k,"BINARY - Income - $25,000 to $49,999"
+Binary variables,INC_50_100k,"BINARY - Income - $50,000 to $99,999"
+Binary variables,INC_100_150k,"BINARY - Income - $100,000 to $149,999"
+Binary variables,INC_150k_plus,"BINARY - Income - $200,000 or more"
+Binary variables,White,BINARY - Race - White
+Binary variables,NonWhite,BINARY - Race - Non-White

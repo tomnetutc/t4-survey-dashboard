@@ -1,0 +1,94 @@
+Variables,Name,Category,Variable,Detail
+None,None,None,Person,None
+Gender,Gender,Person,Person,Gender
+race_category,Race Group,Person,Person,"Race or Ethnicity, in very broad groups for sufficient samples for statistical significance; children did not answer this question, and some people chose not to answer."
+age_category,Age Group,Person,Person,"Age in years,  in broad groups for sufficient samples for statistical significance"
+Age,Age,Person,Person,"Age in years, detailed age group"
+Age 18+_ Educational attainment,Education,Person,Person,Highest level of education completed
+Age 16+_ Has valid drivers license,Driver's License,Person,Person,Survey Question: Has a valid driver's license or permit?
+Times ridden transit in past 30 days,Times ridden transit in past 30 days,Travel,Person,"Survey Question: In the past 30 days, how often have you ridden transit?"
+Times ridden a bike in past 30 days,Times ridden a bike in past 30 days,Travel,Person,"Survey Question: In the past 30 days, how often have you ridden a bike (for 15 minutes or more?"
+Times gone for a walk in past 30 days,Times gone for a walk in past 30 days,Travel,Person,"Survey Question: In the past 30 days, how often have you gone for a walk (for 15 minutes or more)?"
+Age 16+_ Times used carshare in past 30 days,Times used carshare in past 30 days,Travel,Person,"Survey Question: Age 16+, In the past 30 days, how often have you used Carshare (e.g. car2go, RelayRides)?"
+Age 16+_ Times used rideshare in past 30 days,Times used rideshare in past 30 days,Travel,Person,"Survey Question: Age 16+, In the past 30 days, how often have you used Rideshare (e.g. Lyft, Uber)?"
+Main Mode,Mode Group,Travel,Trip,"Mode Category, in broad groups for sufficient samples for statistical significance"
+dest_purpose_simple,Destination Purpose Group,Travel,Trip,"Destination purpose category, in broad groups for sufficient samples for statistical significance"
+o_rgcname,Trip Origin Regional Growth Center,Travel,Trip,Trip Origin Regional Growth Center
+d_rgcname,Trip Destination Regional Growth Center,Travel,Trip,Trip Destination Regional Growth Center
+Transit trip_ Travel mode to transit,Transit Access Mode,Travel,Trip,Survey Question: How did you travel from your origin to the first transit stop/station?
+travelers_total,Number of People in Vehicle,Travel,Trip,Number of people total who traveled on trip
+travelers_hh,Number of Household Members Travelling With,Travel,Trip,Household members who traveled on trip
+Primary Mode,Detailed Mode,Travel,Trip,"Main way traveled on trip, detailed"
+Destination purpose,Detailed Purpose,Travel,Trip,"Main purpose of trip, detailed category"
+Auto trip_ non-taxi_ Driver or passenger,Driver or Passenger,Travel,Trip,Survey Question: Were you the driver or passenger on the trip?
+Auto trip_ non-taxi_ Park location at end of trip,Parking Location at Trip Destination,Travel,Trip,Survey Question: Where was the vehicle parked at/near?
+Age 18+_ Employment status,Employment Status,Worker,Person,Primary type of employment
+Employed_ Number of hours typically worked per week,Hours Worked,Worker,Person,Survey Question: How many hours typically worked per week?
+Employed_ fixed_varied workplace_ How often typically commutes to workplace,Commute Frequency,Worker,Person,Survey Question: How often typically commutes to workplace?
+Employed_ fixed_varied workplace_ Usual way of commuting to current location_office,Usual Commute Mode,Worker,Person,Usual way of commuting to workplace (mode use for greatest distance during usual commute)
+Employed_ fixed workplace_ How long has been commuting to current location_office,Commute Duration,Worker,Person,Survey Question: How long has been commuting to current location/office?
+Employed_ fixed_varied workplace_ How often telecommutes,Telecommute Frequency,Worker,Person,Survey Question: How often telecommutes?
+Commutes in private vehicle_ Usual parking location at work,Work Parking Location,Worker,Person,Survey Question: Usual parking location at work?
+Parks at work_ Usual way of paying for parking at work,Work Parking Payment Method,Worker,Person,"Usual pay or use a pass to park at work, if usually drive alone or carpool"
+Age 16-17 or employed adult_ Number of jobs,Number of Jobs,Worker,Person,Number of Jobs
+work_county,Work County,Worker,Person,Work County
+prev_work_county,Previous Work County,Worker,Person,Previous Work County
+Employer commuter benefits_ Flextime,Flextime,Worker,Person,Survey Question: Does your employer offer flextime?
+Employer commuter benefits_ Compressed Week,Compressed Week,Worker,Person,Survey Question: Does your employer offer a compressed work week?
+Employer commuter benefits_ Free_partially subsidized passes_fares,Free/partially subsidized passes/fares,Worker,Person,Survey Question: Does your employer offer free or partially subsidized transit passes?
+Employer commuter benefits_ Other subsidized commute (vanpool_ bike_ etc.),Other subsidized commute,Worker,Person,"Survey Question: Does your employer offer other subsidized commuter benefits (vanpooling, bike storage)?"
+Age 18+_ Student status,Student Status,Student,Person,Survey Question: Currently a student?
+Student (child or adult)_ Type of school attended,School Type,Student,Person,Type of school attended
+school_loc_county,School County,Student,Person,School County
+Household size,Household Size,Household,Person,Survey Question: How many total people (including yourself) currently live in your household?
+Number of vehicles,Number of Vehicles,Household,Person,"Survey Question: How many motor vehicles (in working order) are in your household? Includes cars, trucks, SUVs, vans, RVs and motorcylcles"
+sample_county,County,Household,Person,Home County
+How long lived in current residence,Length of Residence,Household,Person,Survey Question: How long have you lived at your current residence?
+Residence tenure status,Rent or Own Home,Household,Person,Survey Question: Do you rent or own your current residence?
+Type of residence,Type of Residence,Household,Person,Survey Question: What type of place is your current residence?
+Moved in last 5 years_ Previous home in State of Washington (WA),Previous Home (WA),Household,Person,"Was your previous home located in the state of Washington, if lived in residence <= 5 years"
+Household income 2016_ Broad categories_ all respondents,Household Income Group,Household,Person,"Household Income Group, in broad categories"
+Household lifecycle stage,Household Life Cycle,Household,Person,Household Life Cycle stage
+HH belongs to carshare program,Carshare,Household,Person,Survey Question: Is anyone in your household a member of a car share program?
+Part 2 participation group,Survey Type,Household,Person,Respondents could take the survey via an app or online
+Final home address_ PUMA 2010,Home Address PUMA 2010,Household,Person,Home Address PUMA 2010
+How important when chose current home_ Being within a 30-minute commute to work,Being within a 30-minute commute to work,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Affordability,Affordability,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Being close to family or friends,Being close to family or friends,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ A change in family size or marital_ partner status,A change in family size or marital/ partner status,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Being close to the highway,Being close to the highway,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Quality of schools (K-12),Quality of schools (K-12),Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Having space & separation from others,Having space & separation from others,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Being close to public transit,Being close to public transit,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+How important when chose current home_ Having a walkable neighborhood and being near local activities,Having a walkable neighborhood and being near local activities,Home Choice Priority,Person,Survey Question: How important were each of these factors when choosing to move where you live now?
+Age 18+_ proxy _ 3_ Autonomous car interest_ Taxi_ no driver present," Taxi, no driver present",Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Taxi_ backup driver present," Taxi, backup driver present",Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Commute alone,Commute alone,Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Commute with others,Commute with others,Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Own autonomous car,Own autonomous car,Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Autonomous carshare,Autonomous carshare,Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car interest_ Autonomous short trips,Autonomous short trips,Autonomous Car Interest,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car concern_ Equipment and safety,Equipment and safety,Autonomous Car Concern,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car concern_ Legal liability,Legal liability,Autonomous Car Concern,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car concern_ System and security,System and security,Autonomous Car Concern,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car concern_ Reaction to driving environment,Reaction to driving environment,Autonomous Car Concern,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Age 18+_ proxy _ 3_Autonomous car concern_ Poor weather performance,Poor weather performance,Autonomous Car Concern,Person,Survey Question: What is your level of interest in the following uses of autonomous cars?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Cash,Cash ,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Tickets,Tickets,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ ORCA card,ORCA card,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ UPass or Husky Card,UPass or Husky Card,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Regional Reduced-Fare Permit,Regional Reduced-Fare Permit,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Flexpass_Passport,Flexpass/Passport,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Access Pass,Access Pass,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ School District Card_Pass,School District Card/Pass,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ City_County Employee Badge,City/County Employee Badge,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Ride free,Ride free,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Ridden transit in past 30 days_ Available and typically use when riding transit_ Other,Other,Transit Payment Method,Person,Survey Question: Which of the following types of fare payments do you typically use when riding transit in the greater Seattle region?
+Age 18+_ proxy _ 3_ transit_freq _ 5 days_wk_ Use more transit_ Safer ways to get to stops,Safer ways to get to stops,Transit Improvements,Person,"Survey Question: If the following transit improvements were in place, how often would you choose to take transit for trips where transit is an option?"
+Age 18+_ proxy _ 3_ transit_freq _ 5 days_wk_ Use more transit_ Increased frequency,Increased frequency,Transit Improvements,Person,"Survey Question: If the following transit improvements were in place, how often would you choose to take transit for trips where transit is an option?"
+Age 18+_ proxy _ 3_ transit_freq _ 5 days_wk_ Use more transit_ Increased reliability,Increased reliability,Transit Improvements,Person,"Survey Question: If the following transit improvements were in place, how often would you choose to take transit for trips where transit is an option?"
+Age 18+_ proxy _ 3_ bike_freq _ 5 days_wk_ Use more bike_ Shared use path or protected bike lane,Shared use path or protected bike lane,Bike Improvements,Person,"Survey Question: If the following bicycle improvements were in place, how often would you choose to take a bike for trips where bicycling in an option?"
+Age 18+_ proxy _ 3_ bike_freq _ 5 days_wk_ Use more bike_ Neighborhood greenway,Neighborhood greenway,Bike Improvements,Person,"Survey Question: If the following bicycle improvements were in place, how often would you choose to take a bike for trips where bicycling in an option?"
+Age 18+_ proxy _ 3_ bike_freq _ 5 days_wk_ Use more bike_ Bike lane,Bike lane,Bike Improvements,Person,"Survey Question: If the following bicycle improvements were in place, how often would you choose to take a bike for trips where bicycling in an option?"
+Age 18+_ proxy _ 3_ bike_freq _ 5 days_wk_ Use more bike_ Shared roadway lane,Shared roadway lane,Bike Improvements,Person,"Survey Question: If the following bicycle improvements were in place, how often would you choose to take a bike for trips where bicycling in an option?"
+Age 18+_ proxy _ 3_ bike_freq _ 5 days_wk_ Use more bike_ End of trip ammenities,End of trip ammenities,Bike Improvements,Person,"Survey Question: If the following bicycle improvements were in place, how often would you choose to take a bike for trips where bicycling in an option?"

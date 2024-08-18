@@ -1,0 +1,61 @@
+.home {
+  margin-top: 20px;
+
+  .betweenYear {
+      padding: 20px;
+      display: grid;
+      gap: 20px;
+      grid-template-columns: 1fr 3fr;
+      grid-auto-rows: minmax(130px, auto);
+
+      .box {
+          padding: 20px;
+          border-radius: 10px;
+          box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+          background-color: white;
+      }
+
+      .SegmentAverage {
+          grid-column: 1;
+          grid-row: 2.5;
+      }
+
+      .ChartContainer {
+          grid-column: 2;
+          grid-row: 2.5;
+          overflow-y: auto;
+          overflow-x: auto;
+      }
+
+      .TableContainer {
+          grid-column: 1 / span 2;
+          grid-row: 2.5;
+          background-color: white;
+          overflow-x: auto;
+
+          table {
+              width: 100%;
+              border-collapse: collapse;
+          }
+
+          th,
+          td {
+              border: 1px solid #ddd;
+              padding: 8px;
+              text-align: left;
+          }
+
+          th {
+              background-color: #f2f2f2;
+          }
+
+          tbody tr:nth-child(even) {
+              background-color: #f9f9f9;
+          }
+
+          tbody tr:hover {
+              background-color: #ddd;
+          }
+      }
+  }
+}

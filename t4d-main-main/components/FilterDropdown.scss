@@ -1,0 +1,48 @@
+/* FilterDropdown.scss */
+.filter-dropdown {
+    width: 300px; /* Fixed width for the entire dropdown container */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .dropdown-group {
+    margin-bottom: 1rem;
+  }
+  
+  .dropdown-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .dropdown-group select {
+    width: 100%;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .apply-button {
+    width: 100%;
+    padding: 0.5rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .apply-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .selected-label {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 4px;
+    background-color: #f7f7f7;
+  }
+  

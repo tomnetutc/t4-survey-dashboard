@@ -1,0 +1,143 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./components/VerticalChart/VerticalChart.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.chart-container {
+  width: 100%;
+  height: 100%;
+}
+.chart-container .title-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.chart-container .title {
+  font-size: 16px;
+  font-weight: 500;
+  border-bottom: 1px solid #6e6a6a;
+  padding-bottom: 2px;
+  flex-grow: 1;
+  margin-bottom: 5px;
+}
+.chart-container .chart {
+  width: 100%;
+  height: 90%;
+  align-items: center;
+  justify-content: center;
+}
+/*!******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./components/FilterDropdown.scss ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* FilterDropdown.scss */
+.filter-dropdown {
+  width: 300px; /* Fixed width for the entire dropdown container */
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.dropdown-group {
+  margin-bottom: 1rem;
+}
+
+.dropdown-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.dropdown-group select {
+  width: 100%;
+  padding: 0.5rem;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.apply-button {
+  width: 100%;
+  padding: 0.5rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.apply-button:hover {
+  background-color: #0056b3;
+}
+
+.selected-label {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #007bff;
+  border-radius: 4px;
+  background-color: #f7f7f7;
+}
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./components/InfoBox/InfoBox.scss ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.info-box-position {
+  position: absolute;
+  top: 0;
+  right: 7px;
+}
+.info-box-position .info-icon {
+  color: rgba(108, 117, 125, 0.4);
+  font-size: 15px;
+  cursor: pointer;
+}
+/*!**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[13].use[3]!./node_modules/next/dist/build/webpack/loaders/resolve-url-loader/index.js??ruleSet[1].rules[13].oneOf[13].use[4]!./node_modules/next/dist/compiled/sass-loader/cjs.js??ruleSet[1].rules[13].oneOf[13].use[5]!./components/univariate.scss ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+.home {
+  margin-top: 20px;
+}
+.home .betweenYear {
+  padding: 20px;
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 1fr 3fr;
+  grid-auto-rows: minmax(130px, auto);
+}
+.home .betweenYear .box {
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  background-color: white;
+}
+.home .betweenYear .SegmentAverage {
+  grid-column: 1;
+  grid-row: 2.5;
+}
+.home .betweenYear .ChartContainer {
+  grid-column: 2;
+  grid-row: 2.5;
+  overflow-y: auto;
+  overflow-x: auto;
+}
+.home .betweenYear .TableContainer {
+  grid-column: 1/span 2;
+  grid-row: 2.5;
+  background-color: white;
+  overflow-x: auto;
+}
+.home .betweenYear .TableContainer table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.home .betweenYear .TableContainer th,
+.home .betweenYear .TableContainer td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+.home .betweenYear .TableContainer th {
+  background-color: #f2f2f2;
+}
+.home .betweenYear .TableContainer tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+.home .betweenYear .TableContainer tbody tr:hover {
+  background-color: #ddd;
+}
